@@ -1,0 +1,12 @@
+{
+  "name": "DOGE GBT",
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0x67A9E29F2729C78aD1aA3D772ECFb8167e432b81",
+      "symbol": "DGBT",
+      "decimals": 18,
+      "logoURI": "ipfs://QmatCwbVsLmeBs48fMMN4YoRb5QRjGCLmPg5g3J7ycgEkp"
+    }
+  ]
+}
